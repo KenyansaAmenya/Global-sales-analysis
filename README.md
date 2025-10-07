@@ -178,3 +178,4 @@ I added An **interactive sales performance dashboard** that enables:
 **Author:** Felix Amenya Kenyansa 
 **Dataset Size:** 632 rows  
 **Deliverables:** Cleaned dataset, analysis report, and interactive Excel dashboard  
+<img width="1470" height="459" alt="Screenshot 2025-10-08 000428" src="https://github.com/user-attachments/assets/807cb1a9-b6a0-4493-87bb-a980de724991" />
