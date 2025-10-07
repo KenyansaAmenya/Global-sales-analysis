@@ -123,11 +123,11 @@ A **What-If Control Panel** was introduced to simulate various business scenario
 - Modifying sales targets  
 - Observing potential impact on revenue and profit  
 
-*(This section was particularly challenging and is open for further improvement.)*
+*(This section was particularly challenging to me and I am open for further improvement.)*
 
 ---
 
-##  Insights from the Sales Dashboard
+##  Insights derived from the Sales Dashboard
 
 ### Regional Highlights
 - **Americas:**  
@@ -168,13 +168,13 @@ A **What-If Control Panel** was introduced to simulate various business scenario
 ---
 
 ##  Final Deliverable
-An **interactive sales performance dashboard** that enables:
+I added An **interactive sales performance dashboard** that enables:
 - Dynamic regional and product analysis  
 - Monitoring of discount compliance and service performance  
-- Identification of seasonal and channel-based trends  
+- Identification of channel-based trends  
 
 ---
 
-**Author:** *Your Name*  
+**Author:** Felix Amenya Kenyansa 
 **Dataset Size:** 632 rows  
 **Deliverables:** Cleaned dataset, analysis report, and interactive Excel dashboard  
