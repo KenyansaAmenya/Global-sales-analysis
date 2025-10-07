@@ -70,8 +70,8 @@ Then, to calculate **Revenue Share (%):**
 Online Cannibalization = Increase in Online Revenue - Decrease in Retail Revenue
 ```
 
-- If **Online ** while **Retail **  Online is *cannibalizing* Retail.  
-- If both ** or stable**  Channels are *complementary*.
+- If **Online** while **Retail**  Online is *cannibalizing* Retail.  
+- If both **or stable**  Channels are *complementary*.
 
 ---
 
