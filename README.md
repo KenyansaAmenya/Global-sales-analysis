@@ -5,7 +5,7 @@ In this assignment, I was tasked with transforming a **raw dataset** (known to c
 The process involved four key stages:
 
 1. **Clean** — Identify and fix data errors in the 632-row dataset (e.g., missing values, duplicates, incorrect formatting, inconsistent categories).  
-2. **Enrich** — Create new calculated columns to enhance the dataset (e.g., profit margins, customer segments, time-based groupings).  
+2. **Enrich** — Create new calculated columns to enhance the dataset (e.g., LeadTimeDays, YearMonth, cohortMonth).  
 3. **Analyze** — Explore the cleaned data to uncover key insights on sales performance, profitability, regional trends, and product analysis.  
 4. **Present** — Build a dynamic dashboard with filters, KPIs, and visualizations for interactive exploration of results.
 
